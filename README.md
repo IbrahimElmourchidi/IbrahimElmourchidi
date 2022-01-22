@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ibrahimElmourchidi2020
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, Pandas, Numpy
-- 💞️ I’m looking to collaborate on Data Visualization Projects
+- 👋 Hi, I’m @ibrahimElmourchidi
+- 👀 I’m interested in Web Development, Real time applications and web sockets
 - 📫 How to reach me "ibrahim.18333305@compit.aun.edu.eg"
 
 <!---
