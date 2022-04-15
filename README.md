@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @IbrahimElmourchidi
-- 👀 I’m interested in Web Development, Real time applications and web sockets
+- 👀 I’m interested in Web Development, Real time applications and Block Chain technology
 - 📫 How to reach me "ibrahim.18333305@compit.aun.edu.eg"
